@@ -1,5 +1,5 @@
 # pop-solar-sync
-Meta data file for: Global synchrony of human populations and solar energy throughout the Holocene 
+Meta data file for Freeman et al.: "Global synchrony of human populations and solar energy throughout the Holocene" 
 
 The data consistes to two folders. The first called ``python" contains data and scrips for running a high frequency synchrony analysis of the radiocarbon data and solar energy data. The second folder called "R" contains data files and scripts for running low frequency correlation analysis of the radiocarbon and solar energy data.
 
